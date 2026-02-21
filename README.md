@@ -4,8 +4,8 @@ The objective was to identify which chemical attributes are most strongly associ
 The analysis was conducted as part of a group mini project in Business Data Exploration and Visualization.
 
 ## Group members
-Abbas Mahmoud Badreddine
-Mariam Lumiere El Mir
+- Abbas Mahmoud Badreddine
+- Mariam Lumiere El Mir
 
 ## Datasets Used
 ### Primary Datasets
