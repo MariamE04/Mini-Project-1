@@ -9,15 +9,15 @@ The analysis was conducted as part of a group mini project in Business Data Expl
 
 ## Datasets Used
 ### Primary Datasets
-Red Wine Quality Dataset
-White Wine Quality Dataset
+- Red Wine Quality Dataset
+- White Wine Quality Dataset
 
 The two datasets were cleaned, transformed, and aggregated into one combined dataset.
 
 ### Eksternal Dataset
 An additional external dataset from Kaggle (Wine Reviews) was imported and stored locally for potential future market-based analysis.
 
-This dataset contains:
+### This dataset contains:
 - country
 - price
 - points (consumer rating)
@@ -26,7 +26,7 @@ This dataset contains:
 The external dataset was not used in the statistical modelling but demonstrates integration of alternative public data sources.
 
 ## Data Preparation
-The following preprocessing steps were applied:
+### The following preprocessing steps were applied:
 - Removal of duplicate observations
 - Column renaming for consistency
 - Creation of categorical quality levels
@@ -34,12 +34,11 @@ The following preprocessing steps were applied:
 - Correlation analysis
 - Feature selection and removal of weak or redundant variables
 
-Multicollinearity was identified between:
+### Multicollinearity was identified between:
 - free_sulfur_dioxide and total_sulfur_dioxide
 - alcohol and density
   
 Feature reduction was performed to improve interpretability.
-
 
 ## Exploratory Data Analysis
 The analysis included:
