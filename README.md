@@ -60,11 +60,11 @@ The analysis included:
 These findings suggest that alcohol content is one of the most important measurable indicators associated with wine quality.
 
 ## Hypotheses Tested
-**H1**: White wine has higher residual sugar than red wine ✔
-**H2**: Alcohol is positively related to quality ✔
-**H3**: Average quality differs between red and white wine ✔ (small difference)
-**H4**: Higher residual sugar does not necessarily imply higher quality ✔
-**H5**: Some chemical properties influence quality more than others ✔
+- **H1**: White wine has higher residual sugar than red wine ✔
+- **H2**: Alcohol is positively related to quality ✔
+- **H3**: Average quality differs between red and white wine ✔ (small difference)
+- **H4**: Higher residual sugar does not necessarily imply higher quality ✔
+- **H5**: Some chemical properties influence quality more than others ✔
 
 ## Business Implications
 ### Wine Producers
