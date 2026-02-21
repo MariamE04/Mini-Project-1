@@ -1,5 +1,3 @@
-<img width="1608" height="385" alt="image" src="https://github.com/user-attachments/assets/7a2bdea4-f9c5-4d3a-98ce-51318e18183e" /># Wine Quality Analysis – Exploratory Data Analysis and Statistical Evaluation
-
 ## Project Overview
 This project investigates the relationship between physicochemical properties of wine and wine quality using statistical analysis and exploratory data visualization techniques.
 The objective was to identify which chemical attributes are most strongly associated with wine quality and to evaluate differences between red and white wine.
